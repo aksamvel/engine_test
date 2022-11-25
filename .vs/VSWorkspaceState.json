@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Engines",
+    "\\Engines\\CombustionEngine",
+    "\\Tests",
+    "\\Tests\\EngineTempTest"
+  ],
+  "SelectedNode": "\\Engines\\CombustionEngine\\CombustionEngine.cpp",
+  "PreviewInSolutionExplorer": false
+}
